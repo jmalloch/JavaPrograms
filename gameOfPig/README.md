@@ -3,7 +3,7 @@ Two player dice based game against the computer player.
 
 Variation: Big Pig
 
-This refers to the style of Pig that will be played. Big Pig includes two dice, and alters a couple methods of scoring.
+This refers to the style of Pig that will be played, as Big Pig includes two dice, and alters a couple methods of scoring.
 
 **RULES**
 
